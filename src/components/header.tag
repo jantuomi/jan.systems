@@ -1,7 +1,7 @@
 <header>
   <h1>Hello, my name is Jan</h1>
 
-  <style>
+  <style type="less">
     header {
       display: flex;
     }

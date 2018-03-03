@@ -11,6 +11,7 @@
     "watch:parcel": "parcel src/index.html"
   },
   "dependencies": {
+    "less": "^3.0.1",
     "node-sass": "^4.7.2",
     "riot": "^3.7.4"
   },
