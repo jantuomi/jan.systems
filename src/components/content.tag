@@ -6,6 +6,6 @@
   <list items={ items } />
 
   <script>
-    this.items = [{ title: '.vimrc', url: '/.vimrc'}];
+    this.items = [{ title: 'files', url: '/files'}];
   </script>
 </content>
